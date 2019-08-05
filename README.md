@@ -3,7 +3,7 @@
 
 - The public GitHub repository for this unit can be found at [https://github.com/codio-content/Coding_Challenge_2.1_Check_Digit](https://github.com/codio-content/Coding_Challenge_2.1_Check_Digit).
 
-- For more information on other units in the Crunch course go to [Course : Programming-Challenges](https://github.com/codio-content/Information/wiki/Course-:-Programming-Challenges)
+- For more information on other units in the course go to [Course : Programming-Challenges](https://github.com/codio-content/Information/wiki/Course-:-Programming-Challenges)
 
 - More information on other Codio Courses, how you can collaborate and other useful information can be found in our [Information Wiki](https://github.com/codio-content/Information/wiki).
 
